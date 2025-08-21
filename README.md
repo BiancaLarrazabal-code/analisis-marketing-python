@@ -2,6 +2,12 @@
 
 Este proyecto es un caso de estudio de marketing digital desarrollado en **Python** con **Google Colab**. Su objetivo es demostrar cómo el análisis de datos puede transformar métricas de redes sociales en **insights accionables** ✨ para la toma de decisiones estratégicas. A través de la exploración, limpieza y visualización de un conjunto de datos ficticios, se busca identificar patrones de comportamiento y oportunidades de crecimiento para una marca.
 
+# 🚀 ¡Ver la Aplicación en Vivo! 🚀
+
+Puedes explorar el dashboard interactivo directamente en Streamlit Cloud haciendo clic en el siguiente enlace:
+
+[**Acceder al Dashboard**](https://5cfjcr2u4ucvxs78d7g6vs.streamlit.app/)
+
 ## Características Principales
 - **Análisis Exploratorio de Datos (EDA):** Se utilizan estadísticas descriptivas y gráficos para comprender la calidad y distribución de los datos. 📊
 
