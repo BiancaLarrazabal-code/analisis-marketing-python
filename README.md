@@ -41,6 +41,8 @@ El flujo del proyecto sigue un proceso estándar en análisis de datos: carga de
 
 Este proyecto va un paso más allá del análisis tradicional. Con **Streamlit**, los principales hallazgos y gráficos se han convertido en un **dashboard interactivo y funcional**. Esto permite a cualquier persona, sin conocimientos técnicos, explorar los datos y las conclusiones de manera visual y dinámica, demostrando mi capacidad para comunicar insights de forma efectiva y crear herramientas de negocio útiles.
 
+**Nota sobre la Aplicación Interactiva:** Para ejecutar la aplicación de Streamlit y generar un enlace público, necesitarás tu propio token de autenticación de ngrok. Deberás registrarte en [ngrok](https://dashboard.ngrok.com/get-started/your-authtoken) y guardar tu token en el panel de "Secretos" de Google Colab bajo el nombre `NGROK_AUTHTOKEN`.
+
 ## Cómo Ejecutar el Proyecto
 
 El proyecto está diseñado para ser completamente reproducible. Para ejecutarlo:
