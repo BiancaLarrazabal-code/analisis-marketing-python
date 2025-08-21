@@ -11,6 +11,18 @@ Este proyecto es un caso de estudio de marketing digital desarrollado en **Pytho
 
 - **Conclusiones Estratégicas:** El proyecto culmina con un conjunto de recomendaciones concretas y justificadas con datos para una estrategia de marketing digital optimizada. 🚀
 
+## Tecnologías aplicadas
+
+El análisis fue realizado en el entorno de desarrollo de **Google Colab**, una plataforma de cuadernos de Jupyter. Para llevar a cabo el proyecto, se utilizaron las siguientes librerías y lenguajes clave:
+
+- **Lenguaje de Programación:** Python
+
+- **Análisis y Manipulación de Datos:** Pandas y NumPy
+
+- **Visualización de Datos:** Matplotlib y Seaborn
+
+- **Herramientas de Colaboración y Repositorio:** Google Colab y GitHub
+
 ## Funcionamiento del Modelo
 
 El análisis se lleva a cabo en un cuaderno de Google Colab, que utiliza las siguientes bibliotecas de Python:
@@ -25,13 +37,13 @@ El flujo del proyecto sigue un proceso estándar en análisis de datos: carga de
 
 ## Cómo Ejecutar el Proyecto
 
-1.  El proyecto está diseñado para ser completamente reproducible. Para ejecutarlo:
+El proyecto está diseñado para ser completamente reproducible. Para ejecutarlo:
 
-2.  Abre el archivo Proyecto-Analisis-Marketing.ipynb en Google Colab. 💻
+1.  Abre el archivo Proyecto-Analisis-Marketing.ipynb en Google Colab. 💻
 
-3.  Asegúrate de que el archivo de datos fake_data.csv esté en la misma carpeta o en la ruta de acceso especificada en el código. 📁
+2.  Asegúrate de que el archivo de datos fake_data.csv esté en la misma carpeta o en la ruta de acceso especificada en el código. 📁
 
-4.  Ejecuta cada celda del cuaderno de forma secuencial. ▶️
+3.  Ejecuta cada celda del cuaderno de forma secuencial. ▶️
 
 **Nota sobre los Datos:** Este análisis se realizó con datos ficticios. Si deseas utilizar este código para analizar tus propios datos, simplemente reemplaza el archivo fake_data.csv en el código por el nombre de tu propio archivo CSV. 💡
 
