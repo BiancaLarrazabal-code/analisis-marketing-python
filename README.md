@@ -70,5 +70,3 @@ Este proyecto demuestra un enfoque analítico aplicable en cualquier negocio con
 - **Justificar Decisiones:** Tomar decisiones sobre el calendario de publicaciones y el tipo de contenido a crear basándose en evidencia numérica, no en intuición. 📊
 
 - **Demostrar Valor:** Traducir los datos en un lenguaje de negocio, lo que permite a los equipos de marketing medir el ROI y justificar la inversión en campañas de contenido. 💰
-
-Este proyecto ejemplifica mi capacidad para generar **insights accionables que impulsan el crecimiento empresarial** 🌱, una habilidad que he desarrollado y aplicado en mi experiencia gestionando perfiles en redes sociales. 👩🏻‍💻
