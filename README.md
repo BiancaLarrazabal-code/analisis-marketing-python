@@ -9,7 +9,7 @@ Este proyecto es un caso de estudio de marketing digital desarrollado en **Pytho
 
 - **Visualización de Datos:** Se generaron diversos gráficos (líneas, histogramas, diagramas de caja y mapas de calor) para contar una historia clara con los datos. 🎨
 
-- **Conclusiones Estratégicas:** El proyecto culmina con un conjunto de recomendaciones concretas y justificadas con datos para una estrategia de marketing digital optimizada. 🚀
+- **Conclusiones Estratégicas:** El proyecto culmina con una conclusión para la estrategia de marketing digital optimizada. 🚀
 
 ## Tecnologías aplicadas
 
@@ -20,6 +20,8 @@ El análisis fue realizado en el entorno de desarrollo de **Google Colab**, una 
 - **Análisis y Manipulación de Datos:** Pandas y NumPy
 
 - **Visualización de Datos:** Matplotlib y Seaborn
+  
+- **Aplicación Interactiva:** Streamlit y Pyngrok
 
 - **Herramientas de Colaboración y Repositorio:** Google Colab y GitHub
 
@@ -34,6 +36,10 @@ El análisis se lleva a cabo en un cuaderno de Google Colab, que utiliza las sig
 - **NumPy:** Utilizado para operaciones matemáticas y la creación de la columna simulada content_type. 🔢
 
 El flujo del proyecto sigue un proceso estándar en análisis de datos: carga de los datos ➡️ limpieza 🧼, enriquecimiento con nuevas variables ➡️ análisis visual y, finalmente, la formulación de conclusiones estratégicas. ✅
+
+## Aplicación interactiva
+
+Este proyecto va un paso más allá del análisis tradicional. Con **Streamlit**, los principales hallazgos y gráficos se han convertido en un **dashboard interactivo y funcional**. Esto permite a cualquier persona, sin conocimientos técnicos, explorar los datos y las conclusiones de manera visual y dinámica, demostrando mi capacidad para comunicar insights de forma efectiva y crear herramientas de negocio útiles.
 
 ## Cómo Ejecutar el Proyecto
 
